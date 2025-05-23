@@ -1,4 +1,9 @@
 # FDA-final
+Spending patterns were analyzed for fraud detection using multiple ML models, including a neural network. Data preprocessing with scaling and class imbalance correction was performed. The neural network was built with dense layers, ReLU, and dropout, trained via binary cross-entropy.
+
+
+
+
 https://colab.research.google.com/drive/1kIONk1nZ5kuuzOeOsjdTGt_sPkyqFtKI
 
 
