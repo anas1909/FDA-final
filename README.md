@@ -1,6 +1,5 @@
 # FDA-final
 https://colab.research.google.com/drive/1kIONk1nZ5kuuzOeOsjdTGt_sPkyqFtKI
-https://www.canva.com/design/DAGkQLAESAc/3jtMqr9kCaxCfJyAyaLPTA/edit?utm_content=DAGkQLAESAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier, IsolationForest
